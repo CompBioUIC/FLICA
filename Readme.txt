@@ -7,3 +7,7 @@
 
 
 FLICAmain.m is a main file that should be run. Please also review varibles description within the file "Varible details.xlsx"
+
+The code for paper is at [1]
+
+[1] https://uofi.box.com/s/a831rujfflf5cez8xfwks4p7w9gkzq7v
