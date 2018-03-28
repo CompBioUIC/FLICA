@@ -6,7 +6,7 @@
 % see http://strategic.mit.edu/downloads.php?page=matlab_networks
 
 
-FLICAmain.m is a main file that should be run. Please also review varibles description within the file "Varible details.xlsx"
+FLICAmain.m is the main file that should be run. Please also review varibles description within the file "Varible details.xlsx"
 
 The code for the paper is at [1]
 
