@@ -6,7 +6,11 @@
 % see http://strategic.mit.edu/downloads.php?page=matlab_networks
 
 
-FLICAmain.m is the main file that should be run. Please also review varibles description within the file "Varible details.xlsx"
+FLICAmain.m is the main file that should be run. However, this file requires the input that is a set of k-dimensional time series where k must be at least two. 
+
+FLICAmain_NoConvexAnalysis.m is another main file without convex hull analysis. This file can run on the input that is a ste of k-dimensional time series where k is one or greater than one.
+
+Please also review varibles description within the file "Varible details.xlsx"
 
 The code for the paper is at [1]
 
