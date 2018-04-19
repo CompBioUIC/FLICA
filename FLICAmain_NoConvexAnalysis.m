@@ -2,7 +2,7 @@
 % FLICA: A Framework for Leader Identification in Coordinated Activity
 % Developer: C. Amornbunchornvej
 % Date: Febuary 12, 2017
-% Copyright © 2017 University of Illinois at Chicago.
+% Copyright Â© 2017 University of Illinois at Chicago.
 % This framework has deployed the Matlab Tools for Network Analysis (2006-2011)
 % see http://strategic.mit.edu/downloads.php?page=matlab_networks
 %============== input
@@ -14,7 +14,7 @@ timeShiftWin=20; % time shift window (\delta)
 load('NASDAQ_Data.mat','DataMat');
 
 % If you have k-dimentional time series, then TrajectoryXY={A1,...Ak};
-% where Ai is the ith dimention matrix where each row represents an individual
+% Ai is the ith dimension matrix where each row represents an individual
 % time series and each column represents a time step.
 TrajectoryXY={DataMat}; 
 
